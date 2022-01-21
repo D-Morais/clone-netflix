@@ -21,16 +21,6 @@ body{
     color: var(--cor-letras);
 }
 
-header .logo{
-    margin-left: 5px;
-    color: var(--cor-detalhes);
-    font-family: var(--font); 
-    font-size: 30px;
-}
-
-.logo span {
-    color:var(--cor-letras);
-}
 
 header .container{
     display: flex;
@@ -44,23 +34,29 @@ header .container{
     z-index: 100;
     width: 100%;
 
-    background-color: var(--fundo);;
+    background-color: var(--cor-letras);;
 }
 
 header nav a{
     text-decoration: none;
-    color: #AAA;
-    margin-right: 10px;
+    color: var(--fundo);
+    margin-right: 20px;
+    font-size: large;
 }
 
 header nav a:hover{
-    color: var(--cor-letras);
+    color: black;
+
+}
+
+header img{
+    margin-left: 50px;
 }
 
 /* Filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,.50)100%), url('/img/ultimato.gif');
+    background: linear-gradient(rgba(0,0,0, .50), rgba(0,0,0,.50)100%), url('../img/ultimato.gif');
 
     height: 400px;
     background-size: cover;
