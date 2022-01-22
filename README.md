@@ -2,10 +2,15 @@
 
 Projeto desenvolvido na plataforma da DIO (Digital Innovation One).
 
-## Tema
-Neste projeto foi proposto um clone da netflix, mas com algum diferencial.
+## Proposta
 
-E o tema escolhido foi o Universo Marvel. Trazendo apenas documentários, filmes e séries, relacionados a esse Universo. 
+Neste projeto foi proposto a recriação da interface da netflix, mas com algum diferencial de escolha do aluno.
+
+## Tema
+
+E o tema escolhido foi o Universo Marvel. Trazendo documentários, filmes e séries, relacionados a esse Universo.
+<img src="/img/clone.png" alt="Clone Netflix" />
+Todas as imagens foram retiradas do [The Movie Database](https://www.themoviedb.org/).
 
 ## Tecnologias Utilizadas
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
