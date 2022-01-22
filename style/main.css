@@ -7,7 +7,6 @@
 
 /* Propriedades */
 :root{
-    --cor-detalhes: #E50914;
     --fundo: #141414;
     --cor-letras: seashell;
     --font: 'Poppins', sans-serif;
@@ -133,4 +132,14 @@ header img{
 
 #documentarios{
     margin-bottom: 1%;
+}
+
+/* Rodapé */
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 30px;
+    background: black;
+    
+    font-size: 20px;
 }

@@ -6,9 +6,12 @@
 }
 
 @media (max-width: 700px){
-    header .container{
-        display: flex;
-        flex-direction: column;
+    header img{
+        margin-left: 20px;
+    }
+
+    header nav a{
+        font-size: medium;
     }
 
     .descricao{
@@ -17,10 +20,14 @@
 }
 
 @media (max-width: 450px){
-    header .container{
-        display: flex;
-        flex-direction: column;
+    header img{
+        margin-left: 20px;
     }
+
+    header nav a{
+        font-size: medium;
+    }
+
     .botao{
         margin-top: 5px;
         width: 190px;
