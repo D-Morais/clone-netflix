@@ -9,7 +9,9 @@ Neste projeto foi proposto a recriação da interface da netflix, mas com algum 
 ## Tema
 
 E o tema escolhido foi o Universo Marvel. Trazendo documentários, filmes e séries, relacionados a esse Universo.
+
 <img src="/img/clone.png" alt="Clone Netflix" />
+
 Todas as imagens foram retiradas do [The Movie Database](https://www.themoviedb.org/).
 
 ## Tecnologias Utilizadas
